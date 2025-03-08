@@ -563,6 +563,7 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
+  margin-right: 5px;
 }
 
 .check-icon {
