@@ -489,6 +489,7 @@ img {
 .checkbox-input:checked + .checkbox-label .checkbox-icon {
   background-color: #404bbf;
   border: none;
+  display: inline-flex;
   fill: #f4f4fd;
 }
 
